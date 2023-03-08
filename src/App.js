@@ -7,7 +7,8 @@ import TasksList from './component/TasksList';
 
 function App() {
   return (
-
+            //  this npm run for db.json, npx json-server --watch server/db.json --port 8000 
+            //postman API 
        <Container>
              <Navbar/>
              <Row className="justify-content-md-center">
